@@ -1,0 +1,28 @@
+# OS and file system
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editors and IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs, caches, and temporary files
+*.log
+*.tmp
+*.cache
+*.bak
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# Node.js
+node_modules/
+
+# Build output
+dist/
+build/
